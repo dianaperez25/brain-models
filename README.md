@@ -2,7 +2,7 @@
 
 ### Project description
 
-**research question**: Can we turn “ordinary” MRI datasets with short scanning times into precision MRI datasets with long scanning times by generating synthetic data using whole-brain models (= computational simulations of brain activity)?
+**research question**: Can we turn “ordinary” MRI datasets with short scanning times into "pseudo" precision MRI datasets with long scanning times by generating synthetic data using whole-brain models (= computational simulations of brain activity)?
 
 **project outcome**: Python library for turning ordinary MRI datasets into precision MRI datasets
 
